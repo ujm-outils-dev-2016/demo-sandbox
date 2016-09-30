@@ -16,7 +16,7 @@ _Vive git_ !
 * POZZERA Noemie
 * COLIN Clement
 * MALCHERE Steve
-* GRANJON Thomas
+* GRANJON Thomas        ¯\_(ツ)_/¯
 * BRUYERE Dimitri
 * PEURIERE Romain
 * DUBOUCHET Lucas
