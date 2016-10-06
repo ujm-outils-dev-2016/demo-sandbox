@@ -23,7 +23,7 @@ _Vive git_ !
 * MARKOVIC Adam
 * NIANFO Souleymane
 * HEGAZI Mohamed
-* VIALLARD Paul
+* VIALLARD Paul       Hello world !
 * KHAMED Smail
 * TOUAIBIA Mohamed
 * THIOLLIERE Hugo
