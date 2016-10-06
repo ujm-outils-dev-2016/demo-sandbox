@@ -27,7 +27,7 @@ _Vive git_ !
 * KHAMED Smail
 * TOUAIBIA Mohamed
 * THIOLLIERE Hugo
-* VIDOT Eric
+* VIDOT Eric            Fait.
 * LONG Jordan
 * BELAIHOU Mohamed
 * AMELLAL Amal
