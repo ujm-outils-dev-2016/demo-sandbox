@@ -22,7 +22,7 @@ _Vive git_ !
 * DUBOUCHET Lucas
 * MARKOVIC Adam
 * NIANFO Souleymane
-* HEGAZI Mohamed
+* HEGAZI Mohamed	GitHub is off the hizzle fo shizzle
 * VIALLARD Paul       Hello world !
 * KHAMED Smail
 * TOUAIBIA Mohamed
