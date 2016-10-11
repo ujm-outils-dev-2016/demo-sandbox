@@ -18,7 +18,7 @@ _Vive git_ !
 * MALCHERE Steve
 * GRANJON Thomas        ¯\_(ツ)_/¯
 * BRUYERE Dimitri
-* PEURIERE Romain
+* PEURIERE Jean-Romain
 * DUBOUCHET Lucas
 * MARKOVIC Adam
 * NIANFO Souleymane
