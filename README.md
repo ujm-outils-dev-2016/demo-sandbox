@@ -12,7 +12,7 @@ _Vive git_ !
 * RIOTTE Francois	3.14159265359
 * AKPO Latifa
 * BENNACER Kamil
-* JEAMME Christopher
+* JEAMME Christopher	x12a
 * POZZERA Noemie
 * COLIN Clement
 * MALCHERE Steve
