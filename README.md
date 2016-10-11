@@ -28,7 +28,7 @@ _Vive git_ !
 * TOUAIBIA Mohamed
 * THIOLLIERE Hugo     Tiens Thomas, je crois que tu as perdu ça : \\
 * VIDOT Eric            Fait.
-* LONG Jordan
+* LONG Jordan	42
 * BELAIHOU Mohamed
 * AMELLAL Amal
 * DASSE GOUOUI Eric
