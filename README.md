@@ -26,7 +26,7 @@ _Vive git_ !
 * VIALLARD Paul       Hello world !
 * KHAMED Smail
 * TOUAIBIA Mohamed
-* THIOLLIERE Hugo
+* THIOLLIERE Hugo     Tiens Thomas, je crois que tu as perdu ça : \\
 * VIDOT Eric            Fait.
 * LONG Jordan
 * BELAIHOU Mohamed
