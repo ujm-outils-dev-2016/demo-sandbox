@@ -1,4 +1,4 @@
-# demo-sandbox
+﻿# demo-sandbox
 Repository de démonstration / sandbox - UJM outils de dev - 2016
 
 _Vive git_ !
@@ -34,7 +34,7 @@ _Vive git_ !
 * DASSE GOUOUI Eric
 * PELEGRIN Romain
 * RIGHI Sarah
-* SIRACUSA Remi
+* SIRACUSA Remi Ok
 * UNG Davy
 * LOEW Benoit
 * PAYOT Baltazar
