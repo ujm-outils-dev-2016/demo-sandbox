@@ -39,3 +39,4 @@ _Vive git_ !
 * LOEW Benoit
 * PAYOT Baltazar
 * SOFONEA Axel
+* ROHAUT Benjamin
