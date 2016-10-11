@@ -21,7 +21,7 @@ _Vive git_ !
 * PEURIERE Jean-Romain
 * DUBOUCHET Lucas
 * MARKOVIC Adam
-* NIANFO Souleymane
+* NIANFO Souleymane  It is very important to use github for a projet.
 * HEGAZI Mohamed	GitHub is off the hizzle fo shizzle
 * VIALLARD Paul       Hello world !
 * KHAMED Smail
