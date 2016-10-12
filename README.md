@@ -32,7 +32,7 @@ _Vive git_ !
 * BELAIHOU Mohamed
 * AMELLAL Amal
 * DASSE GOUOUI Eric
-* PELEGRIN Romain
+* PELEGRIN Romain	Done.
 * RIGHI Sarah
 * SIRACUSA Remi Ok
 * UNG Davy
