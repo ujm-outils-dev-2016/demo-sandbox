@@ -6,7 +6,7 @@ _Vive git_ !
 * BELARDI Luc
 * HODEMON Nicolas
 * AYADA Ahmad
-* BONIZEC Emilie
+* ~~BONIZEC Emilie~~	Apparemment c'est mieux "initiation à l'enseignement au premier degré" 
 * TISSIER Emeric
 * DUVERGER Remy
 * RIOTTE Francois	3.1415926535945
