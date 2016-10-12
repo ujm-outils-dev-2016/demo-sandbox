@@ -9,7 +9,7 @@ _Vive git_ !
 * BONIZEC Emilie
 * TISSIER Emeric
 * DUVERGER Remy
-* RIOTTE Francois	3.14159265359
+* RIOTTE Francois	3.1415926535945
 * AKPO Latifa
 * BENNACER Kamil
 * JEAMME Christopher	asterix12a
@@ -20,7 +20,7 @@ _Vive git_ !
 * BRUYERE Dimitri	"Y'a des étudiants qui viennent me voir au mois de décembre, ils me disent "eh msieur j'utilise GitHub", mais ça m'impressionne pas beaucoup"
 * PEURIERE Jean-Romain
 * DUBOUCHET Lucas	l'autre lacheur qui s'est barré au Canada
-* MARKOVIC Adam
+* MARKOVIC Adam		Waterloo -abba-
 * NIANFO Souleymane  It is very important to use github for a projet.
 * HEGAZI Mohamed	GitHub is off the hizzle fo shizzle
 * VIALLARD Paul       Hello world !
@@ -32,11 +32,11 @@ _Vive git_ !
 * BELAIHOU Mohamed
 * AMELLAL Amal
 * DASSE GOUOUI Eric
-* PELEGRIN Romain
+* PELEGRIN Romain	Done.
 * RIGHI Sarah
 * SIRACUSA Remi Ok
 * UNG Davy
 * LOEW Benoit
 * PAYOT Baltazar
-* SOFONEA Axel
+* SOFONEA Axel		Le Puy c'est cool.
 * ROHAUT Benjamin
