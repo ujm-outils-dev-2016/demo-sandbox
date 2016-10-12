@@ -3,7 +3,7 @@ Repository de démonstration / sandbox - UJM outils de dev - 2016
 
 _Vive git_ !
 
-* BELARDI Luc
+* BELARDI Luc		/* Sans commentaire. */
 * HODEMON Nicolas
 * AYADA Ahmad
 * ~~BONIZEC Emilie~~	Apparemment c'est mieux "initiation à l'enseignement au premier degré" 
@@ -12,15 +12,15 @@ _Vive git_ !
 * RIOTTE Francois	3.1415926535945
 * AKPO Latifa
 * BENNACER Kamil
-* JEAMME Christopher	x12a
+* JEAMME Jean-Christopher	x12a
 * POZZERA Noemie
 * COLIN Clement		le lacheur qui s'est barré au Canada
 * MALCHERE Steve
 * GRANJON Thomas        ¯\\_(ツ)_/¯
 * BRUYERE Dimitri	"Y'a des étudiants qui viennent me voir au mois de décembre, ils me disent "eh msieur j'utilise GitHub", mais ça m'impressionne pas beaucoup"
 * PEURIERE Jean-Romain
-* DUBOUCHET Lucas
-* ~~MARKOVIC Adam~~ Waterloo -abba-
+* DUBOUCHET Lucas	l'autre lacheur qui s'est barré au Canada
+* MARKOVIC Adam		Waterloo -abba-
 * NIANFO Souleymane  It is very important to use github for a projet.
 * HEGAZI Mohamed	GitHub is off the hizzle fo shizzle
 * VIALLARD Paul       Hello world !
