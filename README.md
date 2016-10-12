@@ -17,7 +17,7 @@ _Vive git_ !
 * COLIN Clement		le lacheur qui s'est barré au Canada
 * MALCHERE Steve
 * GRANJON Thomas        ¯\_(ツ)_/¯
-* BRUYERE Dimitri	"Y'a des étudiants qui viennent me voir au mois de décembre, ils me disent "eh msieur j'utilise GitHub", mais ça m'inpressionne pas beaucoup"
+* BRUYERE Dimitri	"Y'a des étudiants qui viennent me voir au mois de décembre, ils me disent "eh msieur j'utilise GitHub", mais ça m'impressionne pas beaucoup"
 * PEURIERE Jean-Romain
 * DUBOUCHET Lucas
 * MARKOVIC Adam
