@@ -14,10 +14,10 @@ _Vive git_ !
 * BENNACER Kamil
 * JEAMME Christopher	x12a
 * POZZERA Noemie
-* COLIN Clement
+* COLIN Clement		le lacheur qui s'est barré au Canada
 * MALCHERE Steve
 * GRANJON Thomas        ¯\_(ツ)_/¯
-* BRUYERE Dimitri
+* BRUYERE Dimitri	"Y'a des étudiants qui viennent me voir au mois de décembre, ils me disent "eh msieur j'utilise GitHub", mais ça m'inpressionne pas beaucoup"
 * PEURIERE Jean-Romain
 * DUBOUCHET Lucas
 * MARKOVIC Adam
