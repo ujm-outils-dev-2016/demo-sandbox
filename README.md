@@ -38,5 +38,5 @@ _Vive git_ !
 * UNG Davy
 * LOEW Benoit
 * PAYOT Baltazar
-* SOFONEA Axel
+* SOFONEA Axel		Le Puy c'est cool.
 * ROHAUT Benjamin
