@@ -12,7 +12,7 @@ _Vive git_ !
 * RIOTTE Francois	3.1415926535945
 * AKPO Latifa
 * BENNACER Kamil
-* JEAMME Christopher	asterix12a
+* JEAMME Christopher	x12a
 * POZZERA Noemie
 * COLIN Clement		le lacheur qui s'est barré au Canada
 * MALCHERE Steve
