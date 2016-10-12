@@ -3,7 +3,7 @@ Repository de démonstration / sandbox - UJM outils de dev - 2016
 
 _Vive git_ !
 
-* BELARDI Luc
+* BELARDI Luc		/* Sans commentaire. */
 * HODEMON Nicolas
 * AYADA Ahmad
 * ~~BONIZEC Emilie~~	Apparemment c'est mieux "initiation à l'enseignement au premier degré" 
