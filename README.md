@@ -9,7 +9,7 @@ _Vive git_ !
 * BONIZEC Emilie
 * TISSIER Emeric
 * DUVERGER Remy
-* RIOTTE Francois	3.14159265359
+* RIOTTE Francois	3.141592653594
 * AKPO Latifa
 * BENNACER Kamil
 * JEAMME Christopher	x12a
