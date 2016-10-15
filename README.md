@@ -31,7 +31,7 @@ _Vive git_ !
 * LONG Jordan	42
 * BELAIHOU Mohamed
 * ~~AMELLAL Amal~~ Quand tu choisis Initiation à l'enseignement en croyant que ça te fera moins de TAF et de problèmes...
-* **DASSE GOUOUI Eric** "J'aurais pu écrire 2 semaines mais la flemme..."
+* **DASSE GOUOUI Eric** "J'aurais pu écrire 2 semaines plutôt mais la flemme..."
 * PELEGRIN Romain	Done.
 * RIGHI Sarah
 * SIRACUSA Remi Ok
